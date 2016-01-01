@@ -3,6 +3,8 @@
 ##  TRINITY_STRING	##
 ######################
 
+SET NAMES utf8;
+
 UPDATE `trinity_string` SET `content_loc2` = 'Vous devez sélectionner un personnage ou une créature.' WHERE `entry` = 1;
 UPDATE `trinity_string` SET `content_loc2` = 'Vous devez sélectionner une créature.' WHERE `entry` = 2;
 UPDATE `trinity_string` SET `content_loc2` = '[Serveur] %s' WHERE `entry` = 3;
