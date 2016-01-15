@@ -475,7 +475,7 @@ UPDATE `trinity_string` SET `content_loc2` = 'Mouvement domestique à (X: %f Y: 
 UPDATE `trinity_string` SET `content_loc2` = 'Mouvement domestique utilisé pour le joueur ?!?' WHERE `entry` = 536;
 UPDATE `trinity_string` SET `content_loc2` = 'Déplacement de vol' WHERE `entry` = 537;
 UPDATE `trinity_string` SET `content_loc2` = 'Générateur de mouvement inconnu (%u)' WHERE `entry` = 538;
-UPDATE `trinity_string` SET `content_loc2` = 'PNJ sélectionné\nGUID: %u.\nFaction: %u.\nnpcFlags: %u.\nEntry: %u.\nDisplayID: %u (Native: %u).' WHERE `entry` = 539;
+UPDATE `trinity_string` SET `content_loc2` = 'PNJ sélectionné\nGUID: %u, current %s.\nFaction: %u.\nnpcFlags: %u.\nEntry: %u.\nDisplayID: %u (Native: %u).' WHERE `entry` = 539;
 UPDATE `trinity_string` SET `content_loc2` = 'Niveau: %u.' WHERE `entry` = 540;
 UPDATE `trinity_string` SET `content_loc2` = 'Vie (base): %u. (max): %u. (actuelle): %u.' WHERE `entry` = 541;
 UPDATE `trinity_string` SET `content_loc2` = 'Unit Flags: %u.\nDynamique Flags: %u.\nFaction Template: %u.' WHERE `entry` = 542;
