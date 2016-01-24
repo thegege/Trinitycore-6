@@ -1,8 +1,8 @@
-**************************************************
-* traduction broadcast_text pour les serveurs fr *
-*     uniquement si vous avez des problémmes     *
-*             de traductions                     *
-**************************************************
+##################################################
+# traduction broadcast_text pour les serveurs fr #
+#     uniquement si vous avez des problémmes     #
+#             de traductions                     #
+##################################################
 
 
 UPDATE `broadcast_text` SET `MaleText` = 'Faites de cette auberge votre foyer', `FemaleText` = 'Faites de cette auberge votre foyer' WHERE `ID` = 2822 AND `Language` = 0;
@@ -233,7 +233,7 @@ UPDATE `broadcast_text` SET `MaleText` = 'Calligraphie', `FemaleText` = 'Calligr
 UPDATE `broadcast_text` SET `MaleText` = 'Salut à vous, $gchampion:championne;. Les récits de vos exploits seront contés à travers les âges. Un jour, votre statue prendra peut-être place parmi celles des héros de Hurlevent.' WHERE `ID` = 14390 AND `Language` = 0;
 UPDATE `broadcast_text` SET `MaleText` = 'Pourquoi ne vous échappez-vous pas ?', `FemaleText` = 'Pourquoi ne vous échappez-vous pas ?' WHERE `ID` = 16485 AND `Language` = 0;
 UPDATE `broadcast_text` SET `MaleText` = 'Circulez, $gcitoyen:citoyenne;. Il n\'y a rien à voir.' WHERE `ID` = 9875 AND `Language` = 0;
-UPDATE `broadcast_text` SET `MaleText` = 'Welcome to the Stormwind Guild Registry offices. What can I help you with today?', 'Welcome to the Stormwind Guild Registry offices. What can I help you with today?' WHERE `ID` = 3412 AND `Language` = 7;
+UPDATE `broadcast_text` SET `MaleText` = 'Bienvenue au Bureau d\'enregistrement des guildes de Hurlevent. Comment puis-je vous être agréable ?', `FemaleText` = 'Bienvenue au Bureau d\'enregistrement des guildes de Hurlevent. Comment puis-je vous être agréable ?' WHERE `ID` = 3412 AND `Language` = 7;
 UPDATE `broadcast_text` SET `MaleText` = 'Je souhaite apprendre la double spécialisation.', `FemaleText` = 'Je souhaite apprendre la double spécialisation.' WHERE `ID` = 33765 AND `Language` = 0;
 UPDATE `broadcast_text` SET `MaleText` = 'Je suis intéressé par une formation de démoniste.', `FemaleText` = 'Je suis intéressé par une formation de démoniste.' WHERE `ID` = 2544 AND `Language` = 0;
 UPDATE `broadcast_text` SET `MaleText` = 'Ingénierie', `FemaleText` = 'Ingénierie' WHERE `ID` = 2943 AND `Language` = 7;
@@ -358,9 +358,9 @@ UPDATE `broadcast_text` SET `MaleText` = 'Nourriture et boissons', `FemaleText` 
 UPDATE `broadcast_text` SET `MaleText` = 'Nourriture et boissons', `FemaleText` = 'Nourriture et boissons' WHERE `ID` = 66664 AND `Language` = 0;
 UPDATE `broadcast_text` SET `MaleText` = 'Jetons & souvenirs', `FemaleText` = 'Jetons & souvenirs' WHERE `ID` = 23756 AND `Language` = 0;
 UPDATE `broadcast_text` SET `MaleText` = 'La mise en perce', `FemaleText` = 'La mise en perce' WHERE `ID` = 23877 AND `Language` = 0;
-UPDATE `broadcast_text` SET `MaleText` = 'Pêche', `FemaleText` = 'Pêche' WHERE `ID` = 32144 AND `Language` = ;
-UPDATE `broadcast_text` SET `MaleText` = 'Pêche', `FemaleText` = 'Pêche' WHERE `ID` = 45436 AND `Language` = ;
-UPDATE `broadcast_text` SET `MaleText` = 'Pêche', `FemaleText` = 'Pêche' WHERE `ID` = 45767 AND `Language` = ;
+UPDATE `broadcast_text` SET `MaleText` = 'Pêche', `FemaleText` = 'Pêche' WHERE `ID` = 32144 AND `Language` = 0;
+UPDATE `broadcast_text` SET `MaleText` = 'Pêche', `FemaleText` = 'Pêche' WHERE `ID` = 45436 AND `Language` = 0;
+UPDATE `broadcast_text` SET `MaleText` = 'Pêche', `FemaleText` = 'Pêche' WHERE `ID` = 45767 AND `Language` = 0;
 UPDATE `broadcast_text` SET `MaleText` = 'Pêche', `FemaleText` = 'Pêche' WHERE `ID` = 3005 AND `Language` = 7;
 UPDATE `broadcast_text` SET `MaleText` = 'Pêche', `FemaleText` = 'Pêche' WHERE `ID` = 3465 AND `Language` = 0;
 UPDATE `broadcast_text` SET `MaleText` = 'Pêche', `FemaleText` = 'Pêche' WHERE `ID` = 4864 AND `Language` = 0;
@@ -511,9 +511,9 @@ UPDATE `broadcast_text` SET `MaleText` = 'Joaillerie', `FemaleText` = 'Joailleri
 UPDATE `broadcast_text` SET `MaleText` = 'Joaillerie', `FemaleText` = 'Joaillerie' WHERE `ID` = 15267 AND `Language` = 0;
 UPDATE `broadcast_text` SET `MaleText` = 'Joaillerie', `FemaleText` = 'Joaillerie' WHERE `ID` = 18338 AND `Language` = 0;
 UPDATE `broadcast_text` SET `MaleText` = 'Joaillerie', `FemaleText` = 'Joaillerie' WHERE `ID` = 19235 AND `Language` = 0;
-UPDATE `broadcast_text` SET `MaleText` = 'Dépeçage', `FemaleText` = 'Dépeçage' WHERE `ID` = 19237 AND `Language` = ;
-UPDATE `broadcast_text` SET `MaleText` = 'Dépeçage', `FemaleText` = 'Dépeçage' WHERE `ID` = 45770 AND `Language` = ;
-UPDATE `broadcast_text` SET `MaleText` = 'Dépeçage', `FemaleText` = 'Dépeçage' WHERE `ID` = 52076 AND `Language` = ;
+UPDATE `broadcast_text` SET `MaleText` = 'Dépeçage', `FemaleText` = 'Dépeçage' WHERE `ID` = 19237 AND `Language` = 0;
+UPDATE `broadcast_text` SET `MaleText` = 'Dépeçage', `FemaleText` = 'Dépeçage' WHERE `ID` = 45770 AND `Language` = 0;
+UPDATE `broadcast_text` SET `MaleText` = 'Dépeçage', `FemaleText` = 'Dépeçage' WHERE `ID` = 52076 AND `Language` = 0;
 UPDATE `broadcast_text` SET `MaleText` = 'Dépeçage', `FemaleText` = 'Dépeçage' WHERE `ID` = 2948 AND `Language` = 7;
 UPDATE `broadcast_text` SET `MaleText` = 'Dépeçage', `FemaleText` = 'Dépeçage' WHERE `ID` = 4869 AND `Language` = 0;
 UPDATE `broadcast_text` SET `MaleText` = 'Dépeçage', `FemaleText` = 'Dépeçage' WHERE `ID` = 5140 AND `Language` = 0;
