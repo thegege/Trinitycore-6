@@ -54,3 +54,12 @@ UPDATE `quest_greeting` SET `Greeting` = 'Merci. Nous n’’aurions jamais pu n
 UPDATE `quest_greeting` SET `Greeting` = 'Je n''aurai plus jamais chaud…' WHERE `ID` = 10926;
 UPDATE `quest_greeting` SET `Greeting` = 'Commandant, quel plaisir de vous voir !' WHERE `ID` = 91196;
 UPDATE `quest_greeting` SET `Greeting` = 'Le combat pour Gnomeregan approche !' WHERE `ID` = 6577;
+UPDATE `quest_greeting` SET `Greeting` = 'Ces affreux vieux félins ! Regardez ce qu’ils ont fait !' WHERE `ID` = 76826;
+UPDATE `quest_greeting` SET `Greeting` = 'J’attendais votre venue, $gaventurier:aventurière;.' WHERE `ID` = 76665;
+UPDATE `quest_greeting` SET `Greeting` = 'Commandant, quel plaisir de vous voir !' WHERE `ID` = 89763;
+UPDATE `quest_greeting` SET `Greeting` = 'Certains disent que le marais est maléfique… maléfique…' WHERE `ID` = 4792;
+UPDATE `quest_greeting` SET `Greeting` = 'Orneval est une forêt luxuriante, débordante de vie. C''est agréable d''emprunter ses sentiers secrets à la recherche d''herbes, mais il faut prendre garde. La forêt n''est pas sans danger.' WHERE `ID` = 3847;
+UPDATE `quest_greeting` SET `Greeting` = 'Je vous salue, $gcitoyen:citoyenne;.' WHERE `ID` = 42256;
+UPDATE `quest_greeting` SET `Greeting` = 'Ma beauté perdue me rend la vie insupportable !' WHERE `ID` = 302;
+UPDATE `quest_greeting` SET `Greeting` = 'le seigneur Harris m''envoie récupérer des composants. Notre travail ne peut pas prendre de retard…' WHERE `ID` = 43738;
+UPDATE `quest_greeting` SET `Greeting` = '<Une voix beugle depuis l''intérieur du totem en bois>$B$BVous vous trouvez devant le puissant Ruumbo !' WHERE `ID` = 206585;
